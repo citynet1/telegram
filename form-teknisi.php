@@ -48,25 +48,6 @@
                 <label for="sales" class="form-label">Sales</label>
                 <input type="text" class="form-control" id="sales" name="sales" required />
               </div>
-              <div class="mb-3">
-                <label class="form-label">Teknisi</label>
-                    <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Iman" id="teknisiA">
-                    <label class="form-check-label" for="teknisiA">Sdidk</label>
-                    </div>
-                    <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Parid" id="teknisiB">
-                    <label class="form-check-label" for="teknisiB">Toni</label>
-                    </div>
-                    <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Epul" id="teknisiC">
-                    <label class="form-check-label" for="teknisiC">Sutris</label>
-                    </div>
-                    <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Jana" id="teknisiC">
-                    <label class="form-check-label" for="teknisiC">Gunawan</label>
-                    </div>
-              </div>
               <button type="submit" class="btn btn-primary w-100">Kirim Data</button>
             </form>
           </div>
