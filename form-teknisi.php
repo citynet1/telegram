@@ -48,8 +48,8 @@
                 <label class="form-label">Teknisi</label>
               </div>
               <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Iman" id="teknisiA">
                     <label class="form-check-label" for="teknisiA">Sdidk</label>
+                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Iman" id="teknisiA">
               </div>
               <div class="form-check">
                     <input class="form-check-input" type="checkbox" name="teknisi[]" value="Parid" id="teknisiB">
