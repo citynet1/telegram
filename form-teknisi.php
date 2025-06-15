@@ -46,15 +46,15 @@
               </div>
               <div class="mb-3">
                 <label class="form-label">Teknisi</label>
-                </div>
-                  <div class="form-check">
+              </div>
+              <div class="form-check">
                     <input class="form-check-input" type="checkbox" name="teknisi[]" value="Iman" id="teknisiA">
                     <label class="form-check-label" for="teknisiA">Sdidk</label>
-                    </div>
-                  <div class="form-check">
+              </div>
+              <div class="form-check">
                     <input class="form-check-input" type="checkbox" name="teknisi[]" value="Parid" id="teknisiB">
                     <label class="form-check-label" for="teknisiB">Toni</label>
-                    </div>
+              </div>
                   <div class="form-check">
                     <input class="form-check-input" type="checkbox" name="teknisi[]" value="Epul" id="teknisiC">
                     <label class="form-check-label" for="teknisiC">Sutris</label>
