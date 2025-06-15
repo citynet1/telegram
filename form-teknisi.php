@@ -49,11 +49,11 @@
               </div>
               <div class="form-check">
                     <label class="form-check-label" for="teknisiA">Sdidk</label>
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Iman" id="teknisiA">
+                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Iman" id="teknisiA" />
               </div>
               <div class="form-check">
                     <input class="form-check-input" type="checkbox" name="teknisi[]" value="Parid" id="teknisiB">
-                    <label class="form-check-label" for="teknisiB">Toni</label>
+                    <label class="form-check-label" for="teknisiB">Toni</label />
               </div>
                   <div class="form-check">
                     <input class="form-check-input" type="checkbox" name="teknisi[]" value="Epul" id="teknisiC">
