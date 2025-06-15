@@ -63,8 +63,8 @@
                     <label class="form-check-label" for="teknisiC">Sutris</label>
                     </div>
                     <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Jana" id="teknisiC">
-                    <label class="form-check-label" for="teknisiC">Gunawan</label>
+                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Jana" id="teknisiD">
+                    <label class="form-check-label" for="teknisiD">Gunawan</label>
                     </div>
                 </div>
               <button type="submit" class="btn btn-primary w-100">Kirim Data</button>
