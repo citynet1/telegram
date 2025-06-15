@@ -49,7 +49,7 @@
                 <input type="text" class="form-control" id="sales" name="sales" required />
               </div>
               <div class="mb-3">
-              <label class="form-label">Teknisi</label>
+                <label class="form-label">Teknisi</label>
                     <div class="form-check">
                     <input class="form-check-input" type="checkbox" name="teknisi[]" value="Iman" id="teknisiA">
                     <label class="form-check-label" for="teknisiA">Sdidk</label>
