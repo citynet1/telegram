@@ -47,7 +47,6 @@
               <div class="mb-3">
                 <label class="form-label">Teknisi</label>
                 </div>
-              <div class="mb-3">
                     <div class="form-check">
                     <input class="form-check-input" type="checkbox" name="teknisi[]" value="Iman" id="teknisiA">
                     <label class="form-check-label" for="teknisiA">Sdidk</label>
