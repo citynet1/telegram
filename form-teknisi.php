@@ -45,34 +45,26 @@
                 </select>
               </div>
               <div class="mb-3">
+                <label for="sales" class="form-label">Sales</label>
+                <input type="text" class="form-control" id="sales" name="sales" required />
+              </div>
+              <div class="mb-3">
               <label class="form-label">Teknisi</label>
                     <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Iman" id="teknisiA">
-                    <label class="form-check-label" for="teknisiA">Iman</label>
+                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Sidik" id="teknisiA">
+                    <label class="form-check-label" for="teknisiA">Sidik</label>
                     </div>
                     <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Parid" id="teknisiB">
-                    <label class="form-check-label" for="teknisiB">Parid</label>
+                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Toni" id="teknisiB">
+                    <label class="form-check-label" for="teknisiB">Toni</label>
                     </div>
                     <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Epul" id="teknisiC">
-                    <label class="form-check-label" for="teknisiC">Epul</label>
+                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Sutris" id="teknisiC">
+                    <label class="form-check-label" for="teknisiC">Sutris</label>
                     </div>
                     <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Jana" id="teknisiC">
-                    <label class="form-check-label" for="teknisiC">Jana</label>
-                    </div>
-                    <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Garong" id="teknisiC">
-                    <label class="form-check-label" for="teknisiC">Garong</label>
-                    </div>
-                    <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Odong" id="teknisiC">
-                    <label class="form-check-label" for="teknisiC">Odong</label>
-                    </div>
-                    <div class="form-check">
-                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Dirman" id="teknisiC">
-                    <label class="form-check-label" for="teknisiC">Dirman</label>
+                    <input class="form-check-input" type="checkbox" name="teknisi[]" value="Gunawan" id="teknisiC">
+                    <label class="form-check-label" for="teknisiC">Gunawan</label>
                     </div>
                 </div>
               <button type="submit" class="btn btn-primary w-100">Kirim Data</button>
